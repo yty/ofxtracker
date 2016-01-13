@@ -1,0 +1,1 @@
+In progress library for blob tracking and labelling using openFrameworks and openCV.
